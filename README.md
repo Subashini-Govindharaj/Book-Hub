@@ -1,13 +1,19 @@
 # Book-Hub
 
-<img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=841&q=80" width="900" height="400">
+Book Hub is an online platform for text resale and sales.
 
-Book Hub is a online text selling and reselling website.
+This project is used to search and resale any kind of books. It offers a wide range of books.
+This project  uses XAMPP to deal with HTML, CSS, JavaScript, PHP, and MySQL on an Apache server.
 
+# Installation
+1. Clone this repository: `git clone https://github.com/Subashini-Govindharaj/Book-Hub/tree/main`
+2. Navigate to the project directory: `cd Book-Hub`
+3. Install dependencies: `flutter pub get`
 
-    When it comes to searching for books, there is only one place to turn to – Book Hub.We have a veritable 
-    collection of books that span categories as diverse as you could possibly expect. From segments like 
-    accountancy, to parenting and pregnancy, to banking and finance, to even topics on yoga and meditation 
-    almost any category you seek you will find with us.
+# Output Screenshot
 
-PS: Please do not forget to drop a star if you like it!
+![img1](https://github.com/Subashini-Govindharaj/Book-Hub/assets/156066019/848b8b58-8573-485c-9caf-f98870762194)
+
+![img 2](https://github.com/Subashini-Govindharaj/Book-Hub/assets/156066019/44299419-8e6b-4a47-b617-efdfcdf4680b)
+
+![img 3](https://github.com/Subashini-Govindharaj/Book-Hub/assets/156066019/8c1d3fa6-c8ce-4f98-a3e9-4a1e4c8f5383)
